@@ -66,15 +66,6 @@ Currently available for **freelance missions** and **open to CDI opportunities**
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hervezossou&show_icons=true&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=888888&icon_color=0078ff" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hervezossou&layout=compact&theme=dark&hide_border=true&bg_color=0c0c0c&title_color=ffffff&text_color=888888" height="160"/>
-</p>
-
----
-
 ## Let's work together
 
 I'm the right person if you need someone who:
@@ -85,7 +76,7 @@ I'm the right person if you need someone who:
 - 🚀 Is genuinely excited about what they build
 
 📩 **hervezossou@outlook.com**
-🔗 **[Portfolio](https://hervezossou.dev)**
+🔗 **[Portfolio](https://hervezossou.com)**
 💼 **[LinkedIn](https://linkedin.com/in/hervezossou)**
 
 ---
